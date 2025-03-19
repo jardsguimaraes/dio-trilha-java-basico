@@ -4,7 +4,7 @@ www.dio.me
 #### Autores
 - [Jards Guimarães](https://github.com/jardsguimaraes)
 
-# Exercícios 3 da lista abaixo
+## Resposta do Exercício 3 da lista abaixo
 
 ## todos os execicios devem ter um menu de interativo para chamar as funções e ter uma opção de sair para finalizar a execução
 
